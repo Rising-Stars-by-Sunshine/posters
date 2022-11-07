@@ -1,2 +1,2 @@
 # posters
-![](.../image/SoK.png)
+![](./image/SoK.png)
