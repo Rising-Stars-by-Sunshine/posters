@@ -1,2 +1,3 @@
 # posters
-![](./image/SoK.png)
+![SoK: Blockchain Decentralizatoin](./image/SoK.png)
+:heartbeat:
